@@ -6,8 +6,7 @@
 | Système testé | HostelOps, application web de gestion des réclamations d'un foyer d'étudiants |
 | Dépôt d'origine | https://github.com/Deepthi055/hostelops |
 | Dépôt de test (fork) | https://github.com/ghada12-ygb/hostelops |
-| Équipe | Ghada Yaakoubi, [binôme éventuel] |
-| Encadrant | [nom] |
+| Équipe | Ghada Yaakoubi |
 | Période | 10 semaines |
 
 ## 2. Technologies du système testé
@@ -20,7 +19,7 @@
 |---|---|
 | Étudiant | Client |
 | Administrateur | Administrateur |
-| (aucun agent observé) [À VÉRIFIER] | Agent |
+
 
 ## 4. Fonctions observées
 Connexion, tableau de bord avec compteurs (total, en attente, en cours, résolues), dépôt d'une réclamation, recherche par description ou catégorie, filtre par statut, tri, liste des réclamations de l'utilisateur.
